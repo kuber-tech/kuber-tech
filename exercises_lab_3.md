@@ -22,8 +22,6 @@ ls -lShr /var /log
 
 ```
 
-**Exercise 4**
+**Exercise 5**
 
-```bash
-
-```
+Dummy change.
