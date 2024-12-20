@@ -21,3 +21,9 @@ ls -lShr /var /log
 ```bash
 
 ```
+
+**Exercise 4**
+
+```bash
+
+```
